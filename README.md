@@ -1,1 +1,1 @@
-# papa-lab
+# quebec-lab
